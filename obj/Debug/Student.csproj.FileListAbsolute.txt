@@ -1,0 +1,7 @@
+C:\Users\soums\OneDrive\Desktop\Simplilear\28thProject\Student\Student\bin\Debug\Student.exe.config
+C:\Users\soums\OneDrive\Desktop\Simplilear\28thProject\Student\Student\bin\Debug\Student.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\28thProject\Student\Student\bin\Debug\Student.pdb
+C:\Users\soums\OneDrive\Desktop\Simplilear\28thProject\Student\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\28thProject\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\28thProject\Student\Student\obj\Debug\Student.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\28thProject\Student\Student\obj\Debug\Student.pdb
